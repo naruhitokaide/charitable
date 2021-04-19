@@ -1,0 +1,15 @@
+#Share{
+    float: left;
+    margin-left: 350px;
+    padding: 20px;
+}
+
+#Donate{
+    float: right;
+    margin-right: 350px;
+    padding: 20px;
+}
+
+.container-share{
+    margin-bottom: 100px;
+}

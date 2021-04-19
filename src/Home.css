@@ -1,0 +1,25 @@
+h1{
+    padding-top: 60px;
+}
+
+.my-3{
+    color: #8905ff;
+}
+
+.blood-search{
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.my-4{
+    color: #8905ff;
+    padding-top: 100px;
+}
+
+.btn {
+    border-color: #8905ff;
+}
+
+.btn:hover {
+    background-color: #efddff;
+}
